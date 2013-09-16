@@ -1,6 +1,1 @@
-[submodule "Vagrant-LAMP-Stack"]
-	path = Vagrant-LAMP-Stack
-	url = https://github.com/MiniCodeMonkey/Vagrant-LAMP-Stack.git
-[submodule "web-lamp"]
-	path = web-lamp
-	url = https://github.com/MiniCodeMonkey/Vagrant-LAMP-Stack.git
+
